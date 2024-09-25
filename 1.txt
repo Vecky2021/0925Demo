@@ -1,1 +1,7 @@
-println(hello)
+# include <stdio.h>
+
+int main()
+{
+  println("hello");
+}
+
